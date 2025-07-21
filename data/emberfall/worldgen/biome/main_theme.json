@@ -1,0 +1,28 @@
+{
+    "temperature": 45,
+    "downfall": 0.2,
+    "has_precipitation": false,
+    "temperature_modifier": "none",
+    "creature_spawn_probability": 0.05,
+    "effects": {
+        "sky_color": 12638463,
+        "fog_color": 12638463,
+        "water_color": 4159204,
+        "water_fog_color": 329011,
+        "music": [
+            {
+                "weight": 1,
+                "data": {
+                    "sound": "emberfall:music.main_theme",
+                    "min_delay": 200,
+                    "max_delay": 1400,
+                    "replace_current_music": true
+                }
+            }
+        ]
+    },
+    "spawners": {},
+    "spawn_costs": {},
+    "carvers": [],
+    "features": []
+}
