@@ -13,7 +13,7 @@
             {
                 "weight": 1,
                 "data": {
-                    "sound": "emberfall:music.main_theme",
+                    "sound": {"sound_id": "emberfall:music.main_theme"},
                     "min_delay": 200,
                     "max_delay": 1400,
                     "replace_current_music": true
