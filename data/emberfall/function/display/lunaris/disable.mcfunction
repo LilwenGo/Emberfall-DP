@@ -1,0 +1,2 @@
+tag @s remove display_lunaris
+tellraw @s [{text: "Vous ne voyez plus le nombre de ", color: "yellow"}, {text:"\uEff1", color: "white"}, {text:" Lunaris", color: "gray"}, {text: " que vous possedez", color: "yellow"}]
