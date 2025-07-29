@@ -1,0 +1,1 @@
+execute as @a run title @s actionbar [{text:"\uEff1", font:"emberfall:emberfall"}, {text:" Lunaris: ", color:"gray", font: "minecraft:default", extra: [{score: {name: "@s", objective: "lunaris"}}]}]
